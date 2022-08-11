@@ -1,0 +1,27 @@
+*, html,body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(background.jpg.jpg);
+    background-size: cover;
+
+}
+h1, h2, h3,p, a {
+    color:white;
+    text-align: center;
+}
+.centerbox {
+    width: 550px;
+    margin: 0 auto;
+    border: 1px solid maroon;
+
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background: rgba( 0, 0, 0, 0.5);
+
+}
+.avatar img {
+     border-radius: 50%;
+}
